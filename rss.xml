@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ajoupyterhub]]></title><description><![CDATA[A jupyterhub from Ajou University in Korea]]></description><link>https://jupyter.ajou.ac.kr/blog/blog</link><image><url>https://jupyter.ajou.ac.kr/blog/blog/logos/logo-48.png</url><title>Ajoupyterhub</title><link>https://jupyter.ajou.ac.kr/blog/blog</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Thu, 07 Oct 2021 01:24:43 GMT</lastBuildDate><atom:link href="https://jupyter.ajou.ac.kr/blog/blog/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2021. All rights reserved.]]></copyright><item><title><![CDATA[The Fairy's Witches]]></title><description><![CDATA[Ait oculos Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ajoupyterhub]]></title><description><![CDATA[A jupyterhub from Ajou University in Korea]]></description><link>https://jupyter.ajou.ac.kr/blog/blog</link><image><url>https://jupyter.ajou.ac.kr/blog/blog/logos/logo-48.png</url><title>Ajoupyterhub</title><link>https://jupyter.ajou.ac.kr/blog/blog</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Thu, 07 Oct 2021 01:30:07 GMT</lastBuildDate><atom:link href="https://jupyter.ajou.ac.kr/blog/blog/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2021. All rights reserved.]]></copyright><item><title><![CDATA[The Fairy's Witches]]></title><description><![CDATA[Ait oculos Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
 testes moderantum. Somno curas obscurum, et regna…]]></description><link>https://jupyter.ajou.ac.kr/blog/blog/the-fairys-witches</link><guid isPermaLink="false">https://jupyter.ajou.ac.kr/blog/blog/the-fairys-witches</guid><pubDate>Sat, 02 Oct 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;ait-oculos&quot;&gt;&lt;a href=&quot;#ait-oculos&quot; aria-label=&quot;ait oculos permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ait oculos&lt;/h2&gt;
 &lt;p&gt;Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
 testes moderantum. Somno curas obscurum, et &lt;em&gt;regna spectare&lt;/em&gt; quaeque tot arte
@@ -40,25 +40,25 @@ mitissima, hanc nec sonat illo vocandus placido salus.&lt;/p&gt;
 &lt;p&gt;Si patres terram! Mille habenas tractataque forte. Tenebris viscera gelidos
 fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;ferebat&lt;/strong&gt;.&lt;/p&gt;</content:encoded><author>mobilechoi@ajou.ac.kr</author></item><item><title><![CDATA[간단 사용 가이드]]></title><description><![CDATA[1. http://jupyter.ajou.ac.kr 로 접속합니다. 2. 아주대학교 이메일 아이디로 구글 로그인 합니다. 3. 로그인 후, 사용가능한 노트북을 확인합니다.  4. 데이터사이언스 노트북을 실행합니다. (Play Button…]]></description><link>https://jupyter.ajou.ac.kr/blog/blog/user-guide-ajoupyterhub</link><guid isPermaLink="false">https://jupyter.ajou.ac.kr/blog/blog/user-guide-ajoupyterhub</guid><category><![CDATA[공지]]></category><category><![CDATA[사용가이드]]></category><pubDate>Sat, 02 Oct 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;1-httpjupyterajouackr-로-접속합니다&quot;&gt;&lt;a href=&quot;#1-httpjupyterajouackr-%EB%A1%9C-%EC%A0%91%EC%86%8D%ED%95%A9%EB%8B%88%EB%8B%A4&quot; aria-label=&quot;1 httpjupyterajouackr 로 접속합니다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. &lt;a href=&quot;http://jupyter.ajou.ac.kr&quot;&gt;http://jupyter.ajou.ac.kr&lt;/a&gt; 로 접속합니다.&lt;/h3&gt;
 &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 690px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/blog/static/72755d693ca673d7bf3e60f55c346ce7/52d5b/ajoupyter_home_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/72755d693ca673d7bf3e60f55c346ce7/52d5b/ajoupyter_home_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 44.28044280442804%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABf0lEQVQoz21S2W7CMBDM/39An/oXqC99KCoCeiBUVaqKoLQh4IQcdgKJSSAmma7dhENqpNFOPLtre9bWxF7DYTFEnEJmGdI0RUoxI0gp//4JWbOWtTka2+2ZNzlWkqQQYgsuEkRRRODggQ+2WsLzPNIEOOdGC8OwySEehPA1j0mnmlazlCpxVArHo4KimGwShB6D7zJ4bIWYRyiKHFVVUc7RoCauAFRcAiJDrXmjW4fDAS3KsqTTCThehG+2xny1hu1zyLww2jm3RFVXeJ/Y+Jg6xOuTZrWNdNQn5asIn67AnO8wDTOM2AZxrrXyYuMD9Hdz18Pt/bPh/zYs9SI1nTke2OIHznyGQqZXBdoiKffoDhk63SU6Dw4en13k+d70OV1Z318IjtHrC/r9AZ6GA7yNx+j3eljYttEvN99sc3oNBU23MLzVrEv/drsdPNdFFAaYf82wdBwEvm8meOmh5toC1UBzbYP29vrKFGsyWNFp9NTQTo/Q6qbQ5F+j7fELRBquzfKAMLwAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;ajoupyter home 1&quot; title=&quot;ajoupyter home 1&quot; src=&quot;/blog/static/72755d693ca673d7bf3e60f55c346ce7/36727/ajoupyter_home_1.png&quot; srcset=&quot;/blog/static/72755d693ca673d7bf3e60f55c346ce7/acf4b/ajoupyter_home_1.png 173w,
-/blog/static/72755d693ca673d7bf3e60f55c346ce7/fc834/ajoupyter_home_1.png 345w,
-/blog/static/72755d693ca673d7bf3e60f55c346ce7/36727/ajoupyter_home_1.png 690w,
-/blog/static/72755d693ca673d7bf3e60f55c346ce7/17fa4/ajoupyter_home_1.png 1035w,
-/blog/static/72755d693ca673d7bf3e60f55c346ce7/a5044/ajoupyter_home_1.png 1380w,
-/blog/static/72755d693ca673d7bf3e60f55c346ce7/52d5b/ajoupyter_home_1.png 1897w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot; loading=&quot;lazy&quot;&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;ajoupyter home 1&quot; title=&quot;ajoupyter home 1&quot; src=&quot;/static/72755d693ca673d7bf3e60f55c346ce7/36727/ajoupyter_home_1.png&quot; srcset=&quot;/static/72755d693ca673d7bf3e60f55c346ce7/acf4b/ajoupyter_home_1.png 173w,
+/static/72755d693ca673d7bf3e60f55c346ce7/fc834/ajoupyter_home_1.png 345w,
+/static/72755d693ca673d7bf3e60f55c346ce7/36727/ajoupyter_home_1.png 690w,
+/static/72755d693ca673d7bf3e60f55c346ce7/17fa4/ajoupyter_home_1.png 1035w,
+/static/72755d693ca673d7bf3e60f55c346ce7/a5044/ajoupyter_home_1.png 1380w,
+/static/72755d693ca673d7bf3e60f55c346ce7/52d5b/ajoupyter_home_1.png 1897w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot; loading=&quot;lazy&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;br/&gt;
 &lt;br/&gt;
 &lt;h3 id=&quot;2-아주대학교-이메일-아이디로-구글-로그인-합니다&quot;&gt;&lt;a href=&quot;#2-%EC%95%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%84%EC%9D%B4%EB%94%94%EB%A1%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%95%A9%EB%8B%88%EB%8B%A4&quot; aria-label=&quot;2 아주대학교 이메일 아이디로 구글 로그인 합니다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 아주대학교 이메일 아이디로 구글 로그인 합니다.&lt;/h3&gt;
 &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 599px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/blog/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 109.68280467445743%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsSAAALEgHS3X78AAACCklEQVQ4y51T23LaQAz1/39RnwoG8pC8dAKdAGmDPRiDwYnvF4ztPZUW7HCx49CdOaNdaaXVSkfKYrEoNE0DQZwkdF3H63yO35MJptMpxs/PGI/HmL68YEK62Wwm72jaAgttCePPL/H49gPTh0GujEYPUNWBIKD3s4der4/BYAiVQTpGv6/We7YNTjb2HQ5HtGe7Kp4en6B4riN2to31eiMI2Gws7HY24jjGfr+/QJqmN7qjfi/kPsuEIoRAWZYoioJQyj2D9V+vWzv7KK3XySgfkY+VVSbIskyiunMNpUnJy3EczKkxuq7BMAxQ8+j8SlKDZW3bAx4Nn188D+rGBUy3gOXnsLY21XcD1/Xqe01L+apWeSGQHkpkucDhkCPPc1kGdmn7mcxwq71ha67wl74VhiE5H5AR0NmYlqaE7zYi34MfhAgIHDSKItmQpkzaUGcYJymCMALz0TTXdZ3KUkhIap1wvq9RXgWsqMDUSJKEZNaQAVrOuKXNMZsjoa95mDPy4qIpLLnOrDvX1xk6rgtjZcrvmjR+S2OF5dKAbb/D9324noePD0eWguvLksfTcVzpy+coij8DVl/lWY1ohhlxnFxk/O0ud83sf3W565K4g4/K9bg1OV+P5V0ZNgW9K2Cbc1uW3xs9mhIeta4MmWtBEMjus6zAembJzaR0BeRATLFKVuAzE53XP2VQrpBgQXehAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Google login&quot; title=&quot;Google login&quot; src=&quot;/blog/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png&quot; srcset=&quot;/blog/static/91b435a70d1b4a6364aff147ff549be2/acf4b/Google_login.png 173w,
-/blog/static/91b435a70d1b4a6364aff147ff549be2/fc834/Google_login.png 345w,
-/blog/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png 599w&quot; sizes=&quot;(max-width: 599px) 100vw, 599px&quot; loading=&quot;lazy&quot;&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Google login&quot; title=&quot;Google login&quot; src=&quot;/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png&quot; srcset=&quot;/static/91b435a70d1b4a6364aff147ff549be2/acf4b/Google_login.png 173w,
+/static/91b435a70d1b4a6364aff147ff549be2/fc834/Google_login.png 345w,
+/static/91b435a70d1b4a6364aff147ff549be2/3d4e8/Google_login.png 599w&quot; sizes=&quot;(max-width: 599px) 100vw, 599px&quot; loading=&quot;lazy&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;br/&gt;
@@ -70,7 +70,7 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/358869d453b42295da7c9b10149ae351/dae74/list-of-notebooks.png&quot;
+    href=&quot;/static/358869d453b42295da7c9b10149ae351/dae74/list-of-notebooks.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -83,11 +83,11 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;notebook-list&quot;
         title=&quot;notebook-list&quot;
-        src=&quot;/blog/static/358869d453b42295da7c9b10149ae351/36727/list-of-notebooks.png&quot;
-        srcset=&quot;/blog/static/358869d453b42295da7c9b10149ae351/acf4b/list-of-notebooks.png 173w,
-/blog/static/358869d453b42295da7c9b10149ae351/fc834/list-of-notebooks.png 345w,
-/blog/static/358869d453b42295da7c9b10149ae351/36727/list-of-notebooks.png 690w,
-/blog/static/358869d453b42295da7c9b10149ae351/dae74/list-of-notebooks.png 804w&quot;
+        src=&quot;/static/358869d453b42295da7c9b10149ae351/36727/list-of-notebooks.png&quot;
+        srcset=&quot;/static/358869d453b42295da7c9b10149ae351/acf4b/list-of-notebooks.png 173w,
+/static/358869d453b42295da7c9b10149ae351/fc834/list-of-notebooks.png 345w,
+/static/358869d453b42295da7c9b10149ae351/36727/list-of-notebooks.png 690w,
+/static/358869d453b42295da7c9b10149ae351/dae74/list-of-notebooks.png 804w&quot;
         sizes=&quot;(max-width: 690px) 100vw, 690px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -102,7 +102,7 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png&quot;
+    href=&quot;/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -115,10 +115,10 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;running&quot;
         title=&quot;running&quot;
-        src=&quot;/blog/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png&quot;
-        srcset=&quot;/blog/static/cc34f5ea60b0df32e35b3c5efd172ded/acf4b/notebook-running.png 173w,
-/blog/static/cc34f5ea60b0df32e35b3c5efd172ded/fc834/notebook-running.png 345w,
-/blog/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png 364w&quot;
+        src=&quot;/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png&quot;
+        srcset=&quot;/static/cc34f5ea60b0df32e35b3c5efd172ded/acf4b/notebook-running.png 173w,
+/static/cc34f5ea60b0df32e35b3c5efd172ded/fc834/notebook-running.png 345w,
+/static/cc34f5ea60b0df32e35b3c5efd172ded/91d6a/notebook-running.png 364w&quot;
         sizes=&quot;(max-width: 364px) 100vw, 364px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -128,13 +128,13 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
 &lt;br/&gt;
 &lt;h3 id=&quot;5-새-창에-jupyter-notebook이-새로-열린-것을-확인하고-notebook을-사용합니다&quot;&gt;&lt;a href=&quot;#5-%EC%83%88-%EC%B0%BD%EC%97%90-jupyter-notebook%EC%9D%B4-%EC%83%88%EB%A1%9C-%EC%97%B4%EB%A6%B0-%EA%B2%83%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-notebook%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4&quot; aria-label=&quot;5 새 창에 jupyter notebook이 새로 열린 것을 확인하고 notebook을 사용합니다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. 새 창에 Jupyter Notebook이 새로 열린 것을 확인하고, Notebook을 사용합니다.&lt;/h3&gt;
 &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 690px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/1525c/Jupyter_Notebook.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e7a18547de3012c4e7e3614d6a0f23ce/1525c/Jupyter_Notebook.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 80.17159199237369%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAABuklEQVQ4y51Uf4+bMAzl+3+v/r+p0m5bVZUfbSkcTUKBBBLCm507ptFy19MsWQESPz/bL0RKVOg6jduthtYabdPgeM5xSDJc5Q2tNsiOJ+x2O+z3+6cepWkKJQWscxjHEdZaAm/g6N2aFqbv0VASJRWUUpDqbf3IoyxNYBoVQNqWAIwJIJgowTWDqjv4yeOrFl0uxeIDs+y6LjxnZYniNYbtNQ6/XjB5j2+7HKoxYX+apgePiuLyd5ONS+VesvVaQXfUDmIs8jIkq4ixGex7zJJdAMzz/AGwNxr9CPyuLPWvgyOgmf2MtMbuveSPGWaihawVAdGgqM9csiCG1jqOWAfkydwDzj28yhJCHGApQfzjJZz5vi+gWrOIWZQshFhlyO8sJ00aZSkZ0qNzIzyV7f24YPUUsKchDMMQxDwQ2LznqWSWEK//gixKXgOcS95ut9hsNmEYaZKGM+VPgYlmkyQJqqpagD4FPJ1OiOM4fCtJk9ZZFGlFKuhp74jXO8BPe3gvdi6TV+ffrujsc9ynDGfAtcbf28NNkVI+sOH7/L8Wnc9n1HUdphrkQWDc7PBnoWRfcT57pRju8x9Kkd04mgeYvAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Jupyter Notebook&quot; title=&quot;Jupyter Notebook&quot; src=&quot;/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/36727/Jupyter_Notebook.png&quot; srcset=&quot;/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/acf4b/Jupyter_Notebook.png 173w,
-/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/fc834/Jupyter_Notebook.png 345w,
-/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/36727/Jupyter_Notebook.png 690w,
-/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/17fa4/Jupyter_Notebook.png 1035w,
-/blog/static/e7a18547de3012c4e7e3614d6a0f23ce/1525c/Jupyter_Notebook.png 1049w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot; loading=&quot;lazy&quot;&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Jupyter Notebook&quot; title=&quot;Jupyter Notebook&quot; src=&quot;/static/e7a18547de3012c4e7e3614d6a0f23ce/36727/Jupyter_Notebook.png&quot; srcset=&quot;/static/e7a18547de3012c4e7e3614d6a0f23ce/acf4b/Jupyter_Notebook.png 173w,
+/static/e7a18547de3012c4e7e3614d6a0f23ce/fc834/Jupyter_Notebook.png 345w,
+/static/e7a18547de3012c4e7e3614d6a0f23ce/36727/Jupyter_Notebook.png 690w,
+/static/e7a18547de3012c4e7e3614d6a0f23ce/17fa4/Jupyter_Notebook.png 1035w,
+/static/e7a18547de3012c4e7e3614d6a0f23ce/1525c/Jupyter_Notebook.png 1049w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot; loading=&quot;lazy&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;</content:encoded><author>mobilechoi@ajou.ac.kr</author></item><item><title><![CDATA[Hello from Ajoupyterhub]]></title><description><![CDATA[NOTE: This "post" is based on Markdown Cheatsheet and is meant to test styling of Markdown generated documents. This is intended as a quick…]]></description><link>https://jupyter.ajou.ac.kr/blog/blog/hello-from-ajoupyterhub</link><guid isPermaLink="false">https://jupyter.ajou.ac.kr/blog/blog/hello-from-ajoupyterhub</guid><category><![CDATA[공지]]></category><pubDate>Thu, 30 Sep 2021 15:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot;&gt;&lt;a href=&quot;#note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot; aria-label=&quot;note this post is based on markdown cheatsheet and is meant to test styling of markdown generated documents permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOTE: This &quot;post&quot; is based on &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; and is meant to test styling of Markdown generated documents.&lt;/h2&gt;
 &lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;John Gruber&apos;s original spec&lt;/a&gt; and the &lt;a href=&quot;http://github.github.com/github-flavored-markdown/&quot;&gt;Github-flavored Markdown info page&lt;/a&gt;.&lt;/p&gt;
@@ -153,13 +153,13 @@ fuit? Hamos deinde longique quisquis pugnat moriens, nec Tmolo &lt;strong&gt;fer
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;park&quot;
         title=&quot;park&quot;
-        src=&quot;/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
-        srcset=&quot;/blog/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
-/blog/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
-/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
-/blog/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
-/blog/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
-/blog/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
+        src=&quot;/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
+        srcset=&quot;/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
+/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
+/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
+/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
+/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
+/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
         sizes=&quot;(max-width: 690px) 100vw, 690px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -394,7 +394,7 @@ altus &lt;strong&gt;de vesper&lt;/strong&gt; membra blanditiis aethera orgia.&lt
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg&quot;
+    href=&quot;/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -407,13 +407,13 @@ altus &lt;strong&gt;de vesper&lt;/strong&gt; membra blanditiis aethera orgia.&lt
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;park&quot;
         title=&quot;park&quot;
-        src=&quot;/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
-        srcset=&quot;/blog/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
-/blog/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
-/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
-/blog/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
-/blog/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
-/blog/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
+        src=&quot;/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
+        srcset=&quot;/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
+/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
+/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
+/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
+/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
+/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
         sizes=&quot;(max-width: 690px) 100vw, 690px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -558,13 +558,13 @@ for their projects again and again.&lt;/p&gt;</content:encoded><author>mobilecho
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;park&quot;
         title=&quot;park&quot;
-        src=&quot;/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
-        srcset=&quot;/blog/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
-/blog/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
-/blog/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
-/blog/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
-/blog/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
-/blog/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
+        src=&quot;/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg&quot;
+        srcset=&quot;/static/6a30910688d8595424925411cc8a4768/6f483/park.jpg 173w,
+/static/6a30910688d8595424925411cc8a4768/0fa0d/park.jpg 345w,
+/static/6a30910688d8595424925411cc8a4768/8c996/park.jpg 690w,
+/static/6a30910688d8595424925411cc8a4768/c8cd5/park.jpg 1035w,
+/static/6a30910688d8595424925411cc8a4768/00650/park.jpg 1380w,
+/static/6a30910688d8595424925411cc8a4768/c3f92/park.jpg 1700w&quot;
         sizes=&quot;(max-width: 690px) 100vw, 690px&quot;
         loading=&quot;lazy&quot;
       /&gt;
