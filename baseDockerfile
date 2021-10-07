@@ -1,0 +1,8 @@
+FROM node:14.17.5
+
+RUN mkdir -p /gatsby-blog
+WORKDIR /gatsby-blog
+
+ADD package.json .
+RUN npm i
+
