@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("TJpk"),o=t.n(c),i=t("83Zx"),u=t("IpnI"),r=t.n(u);a.default=function(){return l.a.createElement(i.a,null,l.a.createElement("main",null,l.a.createElement(o.a,{title:"Contact | "+r.a.siteTitle}),l.a.createElement("h1",null,"Contact us"),l.a.createElement("p",null,l.a.createElement("a",{mailto:"mobilechoi@ajou.ac.kr"}," mobilechoi@ajou.ac.kr"))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-17d376bed78168574ff1.js.map
